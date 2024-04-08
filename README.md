@@ -1,4 +1,4 @@
-# SparkFun-BabyBuck-Regulator-3.3V-AP63203-KiCad
+# SparkFun-BabyBuck-Regulator-3.3V-AP63203-KiCad-Component
  SparkFun BabyBuck Regulator Breakout - 3.3V (AP63203) - KiCad version and component
  https://www.sparkfun.com/products/18357
 
